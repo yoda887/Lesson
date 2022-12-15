@@ -18,4 +18,6 @@ public class Kata {
     public static boolean isSquare(int n) {
         return (int)Math.sqrt(n) % 2 == 0; // fix me!
     }
+
+    
 }
